@@ -1,6 +1,4 @@
 # Vue Weather App
-> Pet-app with [article](https://dev.to/oxyyyyy/simple-weather-app-on-vue-js-1g20) about it.
-
 ![Vue Weather App](https://thepracticaldev.s3.amazonaws.com/i/ycmv5zahcnhwyfm4h3dl.png)
 
 ## Project setup
@@ -28,5 +26,5 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
+### Configuration customisation
 See [Configuration Reference](https://cli.vuejs.org/config/).
